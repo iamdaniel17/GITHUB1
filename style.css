@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f3f4f6;
+    background-color: #141414;
     margin: 0;
     display: flex;
     justify-content: center;
@@ -10,7 +10,7 @@ body {
   
   .container {
     text-align: center;
-    background: white;
+    background: rgb(211, 211, 211);
     padding: 20px 40px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
